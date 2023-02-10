@@ -1,7 +1,7 @@
 # elC
 Until further notice el Comandante is here (no HTTPS):
 
-guerilla.bplaced.net
+http://guerilla.bplaced.net
 
 esp32 content is coming soon
 
